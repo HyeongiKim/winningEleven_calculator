@@ -1,10 +1,17 @@
-#Football score calculator
+#WinningEleven
 
 Written by Kim Hyeongi
 
-##Usage
+##List of functions
+1. Football score calculator
 
-####Command standard
+2. Choosing team at random
+
+###1. Football score calculator
+
+####Usage
+
+#####Command standard
     
     # add [name1] [name2] [score1] [score2]
     
@@ -12,6 +19,8 @@ Written by Kim Hyeongi
 
     # exit
 
-####Running
+#####Running
 
     ~$ python cal.py
+
+###2. Choosing team at random
