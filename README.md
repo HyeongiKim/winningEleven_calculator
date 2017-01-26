@@ -24,3 +24,17 @@ Written by Kim Hyeongi
     ~$ python cal.py
 
 ###2. Choosing team at random
+
+####Usage
+
+#####Command standard
+    
+    # name [your name]
+    
+    # name rm [team_name]
+
+    # exit
+
+#####Running
+
+    ~$ python rnd.py
